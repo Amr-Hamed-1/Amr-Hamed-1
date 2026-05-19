@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-hamed-mohamed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amrooohamed608@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[/https://huggingface.co/AmroHamed](https://huggingface.co/AmroHamed)"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://huggingface.co/AmroHamed"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 </p>
 
 ---
